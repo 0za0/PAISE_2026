@@ -8,3 +8,14 @@
 
 - Verbesserung der finalen Requirements
     - Bitte verbessere dieses Requirements doc ohne die requirements an sich zu verändern, kläre unklarheiten und mach es zu einem Legitemen Requirements Dokument, welches in einem Enterprise Unternehmen vorkommen würden.
+
+
+Prompts:
+
+Bitte baue aus folgendem requirements Dokument ein MVP Dokument
+
+# Model
+Opus 5.5 (High)
+
+# Reflektion
+- Erstaunlich Gut
